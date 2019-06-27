@@ -6,5 +6,5 @@ Part 1
 This part only shows the real data compared to a freefall model
 
 <img src = "https://github.com/siri-dhillon/felix-baumgartner-jump-model/blob/master/1.PNG" width = 500 height = 500>
-<img src = "https://github.com/siri-dhillon/felix-baumgartner-jump-model/blob/master/x.PNG" width = 500 height = 10500>
+<img src = "https://github.com/siri-dhillon/felix-baumgartner-jump-model/blob/master/x.PNG" width = 500 height = 1050>
 
